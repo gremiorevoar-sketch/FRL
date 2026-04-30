@@ -4,10 +4,7 @@ toggle.addEventListener("click", () => {
     document.body.classList.toggle("dark-mode");
 });
 
-/* =====================================================
-   SITE DE ESTUDOS ENEM - FRONTEND COMPLETO
-   Autor: você 😎
-===================================================== */
+
 
 document.addEventListener("DOMContentLoaded", () => {
 
